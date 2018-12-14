@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/recipes/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "0f2539ddd1e7dfb932d9",
-    "url": "/recipes/static/css/main.6a703ec0.chunk.css"
+    "revision": "974cecc3601c50560b38",
+    "url": "/recipes/static/css/main.0e264f7c.chunk.css"
   },
   {
     "revision": "c96165c226ec31117b63d29641a80727",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/recipes/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "0f2539ddd1e7dfb932d9",
-    "url": "/recipes/static/js/main.0f2539dd.chunk.js"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/recipes/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "974cecc3601c50560b38",
+    "url": "/recipes/static/js/main.974cecc3.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/recipes/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/recipes/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/recipes/static/css/1.af349c87.chunk.css"
   },
   {
-    "revision": "8c6edf4af9e385ba6df5a00009520f90",
+    "revision": "35c523a0b60ee997e319ea727ed3bb6a",
     "url": "/recipes/index.html"
   }
 ];

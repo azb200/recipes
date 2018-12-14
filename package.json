@@ -2,7 +2,7 @@
   "name": "gabriel-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azb200.github.io/food/",
+  "homepage": "https://azb200.github.io/recipes/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "font-awesome": "^4.7.0",

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/recipes/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "99f103c5410eb7b9e495",
-    "url": "/recipes/static/css/main.f6feed80.chunk.css"
+    "revision": "982961f5c45e8042b2cb",
+    "url": "/recipes/static/css/main.2f7bbbca.chunk.css"
   },
   {
     "revision": "c96165c226ec31117b63d29641a80727",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/recipes/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "99f103c5410eb7b9e495",
-    "url": "/recipes/static/js/main.99f103c5.chunk.js"
+    "revision": "982961f5c45e8042b2cb",
+    "url": "/recipes/static/js/main.982961f5.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/recipes/static/css/1.af349c87.chunk.css"
   },
   {
-    "revision": "ec116b71f04ea01da86a5c21e215a122",
+    "revision": "155fce127dfed06f3c25330ba81ea528",
     "url": "/recipes/index.html"
   }
 ];
